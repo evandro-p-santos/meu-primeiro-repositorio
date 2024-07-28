@@ -1,2 +1,2 @@
-# meu-primeiro-repositorio
-Criando meu primeiro repositório. aula 1
+# evandro-java-basico
+Repositório para armazenar conteúdo do curso java básico.
